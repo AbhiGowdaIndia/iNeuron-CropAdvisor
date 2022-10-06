@@ -1,0 +1,3 @@
+The main goal of the project is to help the farmers to identify which crop get better yield for them based on the features like rain fall in their region, N P K fertilizer content in their soil, soil type( black soil, red soil, sandy soil etc.) and some more. Additionally provide other features to predict the fertilizers and diseases.
+
+Currently the project will contan demoe website, which contains few web pages which gives some information about the project.
